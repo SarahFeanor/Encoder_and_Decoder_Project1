@@ -11,7 +11,7 @@ Estes projetos estão sendo realizados em grupo.
 
 ## PROJETOS
 
-### Módulo 1 - Lógica de Programação I (PY) (Professor - Jorge Díaz) 🐍
+### Módulo 1 - Lógica de Programação I | Python 🐍 Professor Jorge Díaz
 
 #### GRUPO 5 - PROJETO FINAL: [DECODIFICADOR E CODIFICADOR DE MENSAGENS - PYTHON](https://github.com/SarahFeanor/ADA_Tech_Projects/blob/main/Projeto_Grupo5_Turma_1102.ipynb)
  
@@ -20,7 +20,7 @@ Estes projetos estão sendo realizados em grupo.
     - Participantes: José Neto, Jared Leite, Janderson Ribeiro, Samara, Sarah Rezende
  
 ---
-### Módulo 2 - Lógica de Programação II | Python 🐍
+### Módulo 2 - Lógica de Programação II | Python 🐍 Professor Henrique Assis 
 - Em andamento 
 ---
 ### Módulo 3 - Banco de Dados I 
