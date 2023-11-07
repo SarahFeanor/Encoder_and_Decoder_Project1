@@ -19,13 +19,8 @@ Estes projetos estão sendo realizados em grupo.
     
     - Participantes: José Neto, Jared Leite, Janderson Ribeiro, Samara, Sarah Rezende
  
-- [Matéria](): Resumo do conteúdo ministrado durate o curso da Ada Tech
-- [Exercícios](): Exercicios aplicados durante o curso.
 ---
 ### Módulo 2 - Lógica de Programação II | Python 🐍
-
-- [Matéria](): Resumo do conteúdo ministrado durate o curso da Ada Tech
-- [Exercícios](): Exercicios aplicados durante o curso.
 
 ---
 ### Módulo 3 - Banco de Dados I 
