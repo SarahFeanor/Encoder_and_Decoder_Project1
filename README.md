@@ -21,7 +21,7 @@ Estes projetos estão sendo realizados em grupo.
  
 ---
 ### Módulo 2 - Lógica de Programação II | Python 🐍
-
+- Em andamento 
 ---
 ### Módulo 3 - Banco de Dados I 
  - Início do Módulo: 27/11/2023
