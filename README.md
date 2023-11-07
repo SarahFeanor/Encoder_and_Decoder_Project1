@@ -11,9 +11,9 @@ Estes projetos estão sendo realizados em grupo.
 
 ## PROJETOS
 
-## Módulo 1 - Lógica de Programação I (PY) (Professor - Jorge Díaz) 🐍
+### Módulo 1 - Lógica de Programação I (PY) (Professor - Jorge Díaz) 🐍
 
-### GRUPO 5 - PROJETO FINAL: [DECODIFICADOR E CODIFICADOR DE MENSAGENS - PYTHON](https://github.com/SarahFeanor/ADA_Tech_Projects/blob/main/Projeto_Grupo5_Turma_1102.ipynb)
+#### GRUPO 5 - PROJETO FINAL: [DECODIFICADOR E CODIFICADOR DE MENSAGENS - PYTHON](https://github.com/SarahFeanor/ADA_Tech_Projects/blob/main/Projeto_Grupo5_Turma_1102.ipynb)
  
     - Objetivo: criar um código que realize uma codificação e decodificação de uma mensagen com uma chave comum.
     
