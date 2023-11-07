@@ -7,7 +7,7 @@
 Here are my projects from the ADA Tech data course. 
 
 Bem-vindo(a) ao meu repositório de projetos desenvolvidos durante o curso 'Vem Ser Tech Dados' da ADA Tech. Criado com o propósito de estudo. 
-Estes projetos estão sendo realizado em grupo. 
+Estes projetos estão sendo realizados em grupo. 
 
 ## PROJETOS
 
