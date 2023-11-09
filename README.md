@@ -1,6 +1,6 @@
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
-<sub> 📂 Projeto - Grupo 5 | Turma: 1102 - Programa Vem Ser Tech Dados | Módulo 1 - Lógica de Programação I (PY) </sub> 
+<sub> 📂 Projeto - Grupo 5 | Turma: 1102 - Programa Vem Ser Tech Dados - ADA | Módulo 1 - Lógica de Programação I (PY) </sub> 
 
 ### Projeto - [DECODIFICADOR E CODIFICADOR DE MENSAGENS - PYTHON](https://github.com/SarahFeanor/ADA_Tech_Projects/blob/main/Projeto_Grupo5_Turma_1102.ipynb) 🐍
 
