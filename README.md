@@ -1,5 +1,6 @@
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
+
 <sub> 📂 Projeto - Grupo 5 | Turma: 1102 - Programa Vem Ser Tech Dados - ADA | Módulo 1 - Lógica de Programação I (PY) </sub> 
 
 ### Projeto - [DECODIFICADOR E CODIFICADOR DE MENSAGENS - PYTHON](https://github.com/SarahFeanor/ADA_Tech_Projects/blob/main/Projeto_Grupo5_Turma_1102.ipynb) 🐍
@@ -26,6 +27,7 @@ O objetivo deste projeto é codificar e decodificar mensagens usando uma chave c
 - Os usuários devem selecionar o modo para escolher o processo de codificação e decodificação.
 - A mesma chave deve ser usada para processar a codificação e decodificação da mesma mensagem.
 
+<sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
 
 
 
